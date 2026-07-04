@@ -15,7 +15,7 @@ Pre-final year Computer Science student building AI products end-to-end — from
 - 🧠 I build full-stack AI products: LLM-powered apps, ML classifiers, and automation agents
 - 🔭 Currently building an **AI Resume/Interview Copilot**
 - 💼 Open to AI/ML internships and full-stack AI roles
-- 📫 Reach me on [LinkedIn](#) <!-- add your LinkedIn URL -->
+- 📫 Reach me on [LinkedIn](#) https://www.linkedin.com/in/janvi-patel-055507305/
 
 ---
 
