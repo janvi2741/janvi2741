@@ -5,6 +5,7 @@ Pre-final year Computer Science student building AI products end-to-end — from
 
 ## 🚀 About Me
 - 🎓 CS undergrad at MBIT, CVM University
+- 🛰️ Top 9, BAH 2026 (ISRO)
 - 🏆 1st Place, IntelliHack 2025 (IEEE)
 - 🧠 I build full-stack AI products: LLM-powered apps, ML classifiers, and automation agents
 - 💼 Open to AI/ML internships and full-stack AI roles
@@ -24,8 +25,8 @@ Pre-final year Computer Science student building AI products end-to-end — from
 Python JavaScript TypeScript Node.js Next.js Supabase Scikit-learn Groq
 
 ## 🏆 Achievements
+ -🛰️ Top 5 — Bharatiya Antariksh Hackathon (BAH) 2026, ISRO-backed
 - 🥇 1st Place — IntelliHack 2025 (IEEE)
-- 🛰️ Top 5 — Bharatiya Antariksh Hackathon (BAH) 2026, ISRO-backed
 - 🎖️ Top 30 of 400+ teams — Nexothon
 - 🔒 93.2% accuracy phishing detection model (LightGBM)
 - 🩺 96.4% accuracy breast cancer classification model
