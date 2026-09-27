@@ -5,8 +5,8 @@ Pre-final year Computer Science student building AI products end-to-end — from
 
 ## 🚀 About Me
 - 🎓 CS undergrad at MBIT, CVM University
-- 🏆 1st Place, IntelliHack 2025 (IEEE)
 - 🛰️ Top 9, BAH 2026 (ISRO)
+- 🏆 1st Place, IntelliHack 2025 (IEEE)
 - 🧠 I build full-stack AI products: LLM-powered apps, ML classifiers, and automation agents
 - 💼 Open to AI/ML internships and full-stack AI roles
 - 📫 Reach me on LinkedIn
