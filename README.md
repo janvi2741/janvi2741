@@ -9,7 +9,7 @@ Pre-final year Computer Science student building AI products end-to-end — from
 - 🏆 1st Place, IntelliHack 2025 (IEEE)
 - 🧠 I build full-stack AI products: LLM-powered apps, ML classifiers, and automation agents
 - 💼 Open to AI/ML internships and full-stack AI roles
-- 📫 Reach me on LinkedIn
+- 📫 Reach me on LinkedIn www.linkedin.com/in/janvi-patel-055507305
 
 ## 🛠️ Featured Projects
 | Project | What it does | Stack |
